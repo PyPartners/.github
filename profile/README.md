@@ -1,7 +1,7 @@
 <h1 align="center">🤝 PyPartners</h1>
 
 <p align="center">
-🚀 A non-profit organization specialized in Python, dedicated to supporting individuals and startups by offering professional and completely free development solutions.
+🚀 A non-profit team specialized in Python, dedicated to supporting individuals and startups by offering professional and completely free development solutions.
 </p>
 
 ---
