@@ -40,7 +40,7 @@ Whether you have a project or want to volunteer —
 
 ## 📫 Contact Us
 
-Feel free to reach out via email : pypartners6@gmail.com
+Feel free to reach out via email : info@pypartners.org
 
 You can also open an issue in any of our public repositories.
 
